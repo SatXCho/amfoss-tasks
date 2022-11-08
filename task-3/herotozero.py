@@ -40,3 +40,4 @@ for i in range(t):
     out.append(ues)
 
 print(*out, sep = "\n")
+ 
