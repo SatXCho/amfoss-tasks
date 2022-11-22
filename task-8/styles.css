@@ -1,0 +1,89 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 5rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+h2 {
+  font-family: "Raleway", sans-serif;
+  font-size: 2rem;
+  color: #DBEDF3;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+
+.w {
+  background-color: #9400D3;
+  box-shadow: 10px 5px 5px #812098;
+}
+
+.a {
+  background-color: #4B0082;
+  box-shadow: 10px 5px 5px #6300AB;
+}
+
+.s {
+  background-color: #0000FF;
+  box-shadow: 10px 5px 5px #3A4AEF;
+}
+
+.d {
+  background-color: #00FF00;
+  box-shadow: 10px 5px 5px #1C8E16;
+}
+
+.j {
+  background-color: #FFD501;
+  box-shadow: 10px 5px 5px #D0BA2E;
+}
+
+.k {
+  background-color: #FF7F00;
+  box-shadow: 10px 5px 5px #DD8222;
+}
+
+.l {
+  background-color: #FF0000;
+  box-shadow: 10px 5px 5px #FF1212;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #FFFFFF;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+}
