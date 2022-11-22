@@ -26,3 +26,6 @@ and copying athens,txt to solutions directory with the name part4.txt.
 Step 9:
 Concatenating the contents of part1.txt, part2.txt, part3.txt and part4.txt into a file called password.txt in the solution directory using ```cat part1.txt part2.txt part3.txt part4.txt>password.txt```.
 Removed the newline in the password.txt file using vim.
+
+![image](https://user-images.githubusercontent.com/92297743/203363183-52f51182-f621-41da-9519-a9fc204af9e7.png)
+
