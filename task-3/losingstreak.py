@@ -31,7 +31,7 @@ for i in range(1, monet + 1):
 		k.extend(primeFactors(monet//i))
 
 
-
+ 
 
 
 if all(el == 2 or el == 3 for el in k) and flag == 1:
