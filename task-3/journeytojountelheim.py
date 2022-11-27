@@ -23,3 +23,4 @@ for i in range(t):
 for i in out:
     print(i)
 
+ 
