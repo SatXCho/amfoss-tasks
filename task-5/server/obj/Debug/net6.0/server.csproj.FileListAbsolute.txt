@@ -1,0 +1,15 @@
+E:\amfoss if i floss\task 5\server\bin\Debug\net6.0\server.exe
+E:\amfoss if i floss\task 5\server\bin\Debug\net6.0\server.deps.json
+E:\amfoss if i floss\task 5\server\bin\Debug\net6.0\server.runtimeconfig.json
+E:\amfoss if i floss\task 5\server\bin\Debug\net6.0\server.dll
+E:\amfoss if i floss\task 5\server\bin\Debug\net6.0\server.pdb
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.csproj.AssemblyReference.cache
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.GeneratedMSBuildEditorConfig.editorconfig
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.AssemblyInfoInputs.cache
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.AssemblyInfo.cs
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.csproj.CoreCompileInputs.cache
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.dll
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\refint\server.dll
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.pdb
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\server.genruntimeconfig.cache
+E:\amfoss if i floss\task 5\server\obj\Debug\net6.0\ref\server.dll
