@@ -1,2 +1,0 @@
-botApiKey = "5955649983:AAFVOoC3svGxMpBVdMhcJYj4R4xYZaIH1X8"
-webApiKey = "742443a0"
