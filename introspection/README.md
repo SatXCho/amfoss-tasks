@@ -1,6 +1,6 @@
 ### Why must we choose you?
 
-Simply put, I love coding. Well, so does everybody here. So what makes me different? Firstly I commit myself to a task no matter how tedious it is. Nothing can convince me that making projects is boring. Next, I have a good chunk of creative thinking skills and I take interest in writing and direction. I may not have the knowledge of all the programming languages out there yet but I intend to give my all to learn them. I adore the idea of 'open source software' and how helpful everyone in the community is. Which is why I want to join this club so that I can be of help. I want to be able to think of creative and efficient solutions for any problem that I face.
+Simply put, I love coding. Well, so does everybody here. So what makes me different? Firstly I commit myself to a task no matter how tedious it is. Nothing can convince me that making projects is boring. Next, I have a good chunk of creative thinking skills and I take interest in writing and direction. I adore the idea of 'open source software' and how helpful everyone in the community is. Which is why I want to join this club so that I can be of help. I want to be able to think of creative and efficient solutions for any problem that I face.
 
 As a Senior S3 student, I have experience in working for some dotnet development projects for Vipin Sir, I would like to join the club to further contribute to any projects I am tasked with.
 
