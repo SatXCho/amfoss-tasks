@@ -29,3 +29,8 @@ Removed the newline in the password.txt file using vim.
 
 ![image](https://user-images.githubusercontent.com/92297743/203363183-52f51182-f621-41da-9519-a9fc204af9e7.png)
 
+Step 10:
+To upload the solution markdown to github, I first cloned the repository using ```git clone git@github.com:SatXCho/amfoss-tasks.git```
+copy the files from my working directory to the amfoss-tasks directory.
+Adding the changes using ```git add .``` and committing them using ```git commit -m "gk119"```
+Pushing the changes using ```git push```
