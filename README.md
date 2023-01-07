@@ -2,4 +2,4 @@
 
 | Task List | Description | Status |
 |-----------|-------------|--------|
-|[Task 00](/introspection| Introspection | Completed |
+|[Task 00](/introspection)| Introspection | Completed |
