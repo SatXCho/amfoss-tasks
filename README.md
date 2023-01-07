@@ -1,2 +1,5 @@
 # amfoss-tasks
-task set solutions for amFOSS 2022
+
+| Task List | Description | Status |
+|-----------|-------------|--------|
+|[Task 00](/introspection| Introspection | Completed |
