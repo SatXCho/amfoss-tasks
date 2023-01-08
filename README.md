@@ -1,4 +1,6 @@
 # amfoss-tasks
+![HORIZONTAL-TEXT-BULB-WHITE](https://user-images.githubusercontent.com/92297743/211163917-91ee7613-9857-470e-b7b1-f769e6f591f9.svg)
+
 
 Main Tasks
 -----------
@@ -16,6 +18,7 @@ Main Tasks
 |[Task 08](/task-8)|  Internet Explorer  | Completed |
 |[Task 09](/task-9)|  Krypto Scrapper  | Completed |
 |[Task 10](/task-10)|  CS50  | Completed |
+
 
 Additional Tasks
 ----------------
