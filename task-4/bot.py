@@ -3,16 +3,16 @@ import telebot
 import requests
 import json
 import csv
-from dotenv import load_dotenv, find_dotenv
+from dotenv import load_dotenv
 
 # TODO: 1.1 Get your environment variables 
-from variables import botApiKey, webApiKey
+# from variables import botApiKey, webApiKey
 
-load_dotenv(find_dotenv())
+load_dotenv()
 botApiKey = os.getenv('botApiKey')
 webApiKey = os.getenv('webApiKey')
 bot = telebot.TeleBot(botApiKey)
-
+bot.set_webhook()
 @bot.message_handler(commands=['start', 'hello'])
 def greet(message):
     global botRunning
@@ -55,13 +55,13 @@ def getMovie(message):
             bot.send_message(message.chat.id, text = "The Poster could not be sent due to a broken link ig?\N{sneezing face}")
 
     # TODO: 2.1 Create a CSV file and dump the movie information in it
-    if os.path.exists("movies.csv") == False:
+    if os.path.exists("task-4\movies.csv") == False:
         file = open("tasks/task-4/movies.csv", "w")
         ww = csv.writer(file)
         ww.writerow(apidict.keys())
         file.close()
 
-    with open("movies.csv", "a") as csvfile:
+    with open("task-4\movies.csv", "a") as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(apidict.values())
 
@@ -70,11 +70,13 @@ def getMovie(message):
 def getList(message):
     bot.reply_to(message, 'Generating file...')
     #TODO: 2.2 Send downlodable CSV file to telegram chat
-    sentcsv = open("movies.csv", 'rb')
+    sentcsv = open("task-4\movies.csv", 'r+')
     bot.send_document(message.chat.id, sentcsv)
+    print("1")
+    sentcsv.seek(0)
+    sentcsv.truncate()
 
 @bot.message_handler(func=lambda message: botRunning)
 def default(message):
     bot.reply_to(message, 'I did not understand '+'\N{confused face}')
-    
-bot.polling()
+bot.infinity_polling()
