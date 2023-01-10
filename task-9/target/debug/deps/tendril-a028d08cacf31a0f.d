@@ -1,0 +1,13 @@
+E:\amfoss-tasks\task-9\target\debug\deps\tendril-a028d08cacf31a0f.rmeta: C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\lib.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\fmt.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\stream.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\buf32.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\tendril.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\utf8_decode.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\util.rs
+
+E:\amfoss-tasks\task-9\target\debug\deps\libtendril-a028d08cacf31a0f.rlib: C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\lib.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\fmt.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\stream.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\buf32.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\tendril.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\utf8_decode.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\util.rs
+
+E:\amfoss-tasks\task-9\target\debug\deps\tendril-a028d08cacf31a0f.d: C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\lib.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\fmt.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\stream.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\buf32.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\tendril.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\utf8_decode.rs C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\util.rs
+
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\lib.rs:
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\fmt.rs:
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\stream.rs:
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\buf32.rs:
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\tendril.rs:
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\utf8_decode.rs:
+C:\Users\satvi\.cargo\registry\src\github.com-1ecc6299db9ec823\tendril-0.4.3\src\util.rs:
