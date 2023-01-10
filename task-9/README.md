@@ -1,0 +1,1 @@
+This task was the most fun of them all, It introduced me to Rust, which is a beautiful programming language. I ended up learning more about rust later and also used it in my Assignments too! My only regret is me overlooking the csv writing bug but I have fixed it now.
